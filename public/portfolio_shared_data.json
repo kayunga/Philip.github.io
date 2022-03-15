@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Philip Chitangala",
-      "titles": [ "Web developer", "Web Team Lead" , "Mobile App Developer" ],
+      "titles": [ "Web developer", "React Beginner" ],
       "social": [
         {
           "name": "github",
@@ -19,19 +19,19 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "HTML5",
           "class": "devicon-html5-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
+          "name": "CSS3",
           "class": "devicon-css3-plain",
           "level": "90"
         },
         {
           "name": "Angular",
           "class": "devicon-angularjs-plain",
-          "level": "50"
+          "level": "20"
         },
         {
           "name": "TypeScript",
@@ -57,6 +57,11 @@
           "name": "Python AI/ML",
           "class": "devicon-python-plain",
           "level": "80"
+        },
+	{
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "35"
         },
         {
           "name": "MySql",

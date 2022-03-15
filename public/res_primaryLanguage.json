@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Philip Chitangala. An aspiring front-end developer. I'm working with, frameworks like Django and React. What you are seeing now is portfolio template from Dorota1997. This is my first react portfolio",
+      "description": "👋 I'm Philip Chitangala. An aspiring front-end developer. I'm working with, frameworks like Django and React. This is my first react portfolio",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "Heart Disease Diagnosis",
         "startDate": "2021",
-        "description": " I programmed this in python.",
+        "description": " I programmed this in python with the help of scikit-learn, a machine learning library built in python, uses input data such as chest pain types, sugar levels, heart rate and so on.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -21,36 +21,20 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-python-plain",
+            "name": "python"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-python-plain",
+            "name": "AI/ML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-python-plain",
+            "name": "Scikit-Learn"
           },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+	  {
+            "class": "devicon-python-plain",
+            "name": "Tkinter"
           }
         ]
       },
@@ -81,37 +65,29 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Toyota Zambia",
+        "title": "System Adminstrator Intern",
+        "years": "July 2019 - September 2019",
         "mainTech": [
-          "Angular 8/9/10"
+          "Networking"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Helpdesk",
+          "Windows Server",
+          "Troubleshooting"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Times Printpak",
+        "title": "IT Technician Intern",
+        "years": "january 2019 - March 2019",
         "mainTech": [
-          "Angular 7/8"
+          "Windows OS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Hardware",
+          "software",
+          "Antivirus installation"
         ]
       }
     ]
